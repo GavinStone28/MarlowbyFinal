@@ -76,7 +76,8 @@
   --bs-link-color: #e6a756;
   --bs-link-hover-color: #b88645;
   --bs-code-color: #d63384;
-  --bs-highlight-bg: #fff3cd;
+ /* Background Tint */
+  --bs-highlight-bg: #ADD8E6;
 }
 
 *,

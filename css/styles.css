@@ -10826,7 +10826,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.60), rgba(255, 255, 255, 0.60)), url("../assets/img/bg.jpg");
+  background-image: linear-gradient(rgba(216, 255, 255, 0.65), rgba(216, 255, 255, 0.65)), url("../assets/img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -10876,9 +10876,9 @@ p {
   font-size: 3rem;
   font-weight: 100;
 }
-/* Background tint */
+/* Body Background */
 .bg-faded {
-  background-color: #D8FFFF;
+  background-color: #e9b783;
 }
 
 .btn-xl {

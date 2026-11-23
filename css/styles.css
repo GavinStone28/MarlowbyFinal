@@ -76,8 +76,7 @@
   --bs-link-color: #e6a756;
   --bs-link-hover-color: #b88645;
   --bs-code-color: #d63384;
- /* Background Tint */
-  --bs-highlight-bg: #ADD8E6;
+  --bs-highlight-bg: #fff3cd;
 }
 
 *,
@@ -91,7 +90,7 @@
     scroll-behavior: smooth;
   }
 }
-
+/* body tag */
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -2381,7 +2380,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #e6a756;
+  background-color: #ffffff;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -10954,7 +10953,7 @@ p {
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
   z-index: -1;
 }
-
+/* Foot color */
 .footer {
   background-color: rgba(47, 23, 15, 0.9);
 }

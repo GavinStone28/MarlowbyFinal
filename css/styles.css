@@ -10876,9 +10876,9 @@ p {
   font-size: 3rem;
   font-weight: 100;
 }
-
+/* Background tint */
 .bg-faded {
-  background-color: #ffffff;
+  background-color: #D8FFFF;
 }
 
 .btn-xl {
